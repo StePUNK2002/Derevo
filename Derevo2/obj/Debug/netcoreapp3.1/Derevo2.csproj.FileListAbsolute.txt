@@ -1,0 +1,14 @@
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/bin/Debug/netcoreapp3.1/Derevo2
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/bin/Debug/netcoreapp3.1/Derevo2.deps.json
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/bin/Debug/netcoreapp3.1/Derevo2.runtimeconfig.json
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/bin/Debug/netcoreapp3.1/Derevo2.runtimeconfig.dev.json
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/bin/Debug/netcoreapp3.1/Derevo2.dll
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/bin/Debug/netcoreapp3.1/Derevo2.pdb
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.csproj.AssemblyReference.cache
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.AssemblyInfoInputs.cache
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.AssemblyInfo.cs
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.csproj.CoreCompileInputs.cache
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.dll
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.pdb
+/Users/edavkinstepan/Projects/Derevo2/Derevo2/obj/Debug/netcoreapp3.1/Derevo2.genruntimeconfig.cache
